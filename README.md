@@ -8,3 +8,7 @@
 - 데이터베이스: Mysql (8.0.26)
 - 빌드 툴: Maven
 - 모델링 : https://dbdiagram.io/d 
+
+
+1. 프로젝트 설정 
+- 
