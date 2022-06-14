@@ -7,3 +7,4 @@
 - 스프링부트 버전: 2.7.0
 - 데이터베이스: Mysql (8.0.26)
 - 빌드 툴: Maven
+- 모델링 : https://dbdiagram.io/d 
