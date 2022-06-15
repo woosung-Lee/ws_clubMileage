@@ -11,4 +11,19 @@
 
 
 1. 프로젝트 설정 
-- 
+
+2.도메인
+  * User
+    * id
+    
+  * Place
+    * id
+    
+  * review
+    * id 
+    * user_id
+    * place_id
+    * createDt
+    * updateDt
+
+  * mileage_active : 마일리지 활성화 테이블 - 목적 : insert  
