@@ -1,4 +1,4 @@
-package me.ws.triple.mileage.domain.place;
+package me.ws.triple.mileage.mileage.user;
 
 import org.hibernate.annotations.Type;
 
@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import java.util.UUID;
 
 @Entity
-public class Place {
+public class User {
 
     @Id
     @Type(type = "uuid-char")
